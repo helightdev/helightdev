@@ -1,6 +1,7 @@
 ![Age](https://img.shields.io/badge/release-v19.0.0-brightgreen)
 ![CQ](https://img.shields.io/badge/code%20quality-A-brightgreen)
 [![Linkedin: Christoph Feuerer](https://img.shields.io/badge/-Christoph%20Feuerer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christophfeuerer/)](https://www.linkedin.com/in/christophfeuerer/)
+[![Instagram: Christoph Feuerer](https://img.shields.io/badge/-christ.fe-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/christ.fe/)](https://www.instagram.com/christ.fe/)
 
 ### Hi there 👋
 
