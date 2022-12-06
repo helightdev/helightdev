@@ -1,3 +1,6 @@
+![Age](https://img.shields.io/badge/release-v19.0.0-brightgreen)
+![CQ](https://img.shields.io/badge/code%20quality-A-brightgreen)
+
 ### Hi there 👋
 
 <!--
