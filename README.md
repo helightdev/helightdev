@@ -3,7 +3,7 @@
 [![Linkedin: Christoph Feuerer](https://img.shields.io/badge/-Christoph%20Feuerer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christophfeuerer/)](https://www.linkedin.com/in/christophfeuerer/)
 [![Instagram: Christoph Feuerer](https://img.shields.io/badge/-christ.fe-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/christ.fe/)](https://www.instagram.com/christ.fe/)
 
-### Hi there 👋
+### Hello there! 👋
 I'm Christoph, a Fullstack Devloper from Germany.
 
 ## 📊 Developer Stats
