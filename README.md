@@ -8,7 +8,7 @@ I'm Christoph, a Fullstack Devloper from Germany.
 
 ## 📊 Developer Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=helightdev&show_icons=true" align="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=helightdev&show_icons=true&hide_rank=true" align="top">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helightdev&layout=compact" align="top">
 </div>
 
