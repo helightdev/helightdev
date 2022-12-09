@@ -4,7 +4,7 @@
 [![Instagram: Christoph Feuerer](https://img.shields.io/badge/-christ.fe-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/christ.fe/)](https://www.instagram.com/christ.fe/)
 
 ### Hello there! 👋
-I'm Christoph, a Fullstack Devloper from Germany.
+I'm Christoph, a Fullstack Developer from Germany.
 
 ## 📊 Developer Stats
 <div>
